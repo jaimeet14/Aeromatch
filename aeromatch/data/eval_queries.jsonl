@@ -1,0 +1,144 @@
+{"qid": 0, "kind": "title", "text": "show me software engineer - backend roles", "family": "backend_python", "filters": {}}
+{"qid": 1, "kind": "skills", "text": "I know spring boot, mysql and java - what jobs fit me?", "family": "backend_java", "filters": {"city": "Bengaluru"}}
+{"qid": 2, "kind": "paraphrase", "text": "I want to concurrent network services", "family": "backend_go", "filters": {"city": "Bengaluru"}}
+{"qid": 3, "kind": "title", "text": "any openings for frontend engineer (react) roles", "family": "frontend", "filters": {"city": "Bengaluru", "years_experience": 1}}
+{"qid": 4, "kind": "skills", "text": "I know react, node.js and javascript - what jobs fit me?", "family": "fullstack", "filters": {"city": "Mumbai"}}
+{"qid": 5, "kind": "paraphrase", "text": "I want to make our Play Store app better", "family": "android", "filters": {"city": "Chennai", "work_mode": "remote"}}
+{"qid": 6, "kind": "title", "text": "show me swift developer roles", "family": "ios", "filters": {"work_mode": "hybrid", "years_experience": 1}}
+{"qid": 7, "kind": "skills", "text": "I know flutter and dart - what jobs fit me?", "family": "flutter", "filters": {"city": "Mumbai"}}
+{"qid": 8, "kind": "paraphrase", "text": "I want to dig into numbers to answer business questions", "family": "data_analyst", "filters": {"city": "Chennai"}}
+{"qid": 9, "kind": "title", "text": "any openings for data scientist roles", "family": "data_scientist", "filters": {"work_mode": "onsite"}}
+{"qid": 10, "kind": "skills", "text": "I know docker, mlops and python - what jobs fit me?", "family": "ml_engineer", "filters": {}}
+{"qid": 11, "kind": "paraphrase", "text": "I want to build chatbots on top of large language models", "family": "genai_engineer", "filters": {"city": "Mumbai", "years_experience": 1}}
+{"qid": 12, "kind": "title", "text": "any openings for data engineer roles", "family": "data_engineer", "filters": {"work_mode": "onsite", "years_experience": 2}}
+{"qid": 13, "kind": "skills", "text": "I know docker, terraform and kubernetes - what jobs fit me?", "family": "devops", "filters": {"work_mode": "remote"}}
+{"qid": 14, "kind": "paraphrase", "text": "I want to find vulnerabilities before attackers do", "family": "security", "filters": {"work_mode": "hybrid"}}
+{"qid": 15, "kind": "title", "text": "looking for qa engineer roles", "family": "qa", "filters": {}}
+{"qid": 16, "kind": "skills", "text": "I know microcontrollers, c and embedded c - what jobs fit me?", "family": "embedded", "filters": {"city": "Mumbai", "years_experience": 2}}
+{"qid": 17, "kind": "paraphrase", "text": "I want to high performance trading infrastructure", "family": "cpp_systems", "filters": {}}
+{"qid": 18, "kind": "title", "text": "show me ui/ux designer roles", "family": "ui_ux", "filters": {"work_mode": "onsite"}}
+{"qid": 19, "kind": "skills", "text": "I know roadmapping, stakeholder management and product management - what jobs fit me?", "family": "product_manager", "filters": {"city": "Gurugram", "work_mode": "hybrid"}}
+{"qid": 20, "kind": "paraphrase", "text": "I want to sell software to businesses", "family": "sales", "filters": {"city": "Bengaluru"}}
+{"qid": 21, "kind": "title", "text": "looking for growth marketer roles", "family": "digital_marketing", "filters": {"years_experience": 1}}
+{"qid": 22, "kind": "skills", "text": "I know copywriting, content writing and editing - what jobs fit me?", "family": "content_writer", "filters": {"city": "Bengaluru"}}
+{"qid": 23, "kind": "paraphrase", "text": "I want to hire people for tech teams", "family": "hr", "filters": {"years_experience": 0}}
+{"qid": 24, "kind": "title", "text": "show me api developer roles", "family": "backend_python", "filters": {"years_experience": 1}}
+{"qid": 25, "kind": "skills", "text": "I know spring boot, microservices and mysql - what jobs fit me?", "family": "backend_java", "filters": {}}
+{"qid": 26, "kind": "paraphrase", "text": "I want to low latency systems programming for distributed services", "family": "backend_go", "filters": {"city": "Pune", "years_experience": 4}}
+{"qid": 27, "kind": "title", "text": "any openings for frontend developer roles", "family": "frontend", "filters": {"work_mode": "hybrid"}}
+{"qid": 28, "kind": "skills", "text": "I know mongodb, node.js and react - what jobs fit me?", "family": "fullstack", "filters": {"work_mode": "hybrid"}}
+{"qid": 29, "kind": "paraphrase", "text": "I want to make our Play Store app better", "family": "android", "filters": {}}
+{"qid": 30, "kind": "title", "text": "show me swift developer roles", "family": "ios", "filters": {"work_mode": "remote", "years_experience": 0}}
+{"qid": 31, "kind": "skills", "text": "I know dart and flutter - what jobs fit me?", "family": "flutter", "filters": {"city": "Chennai", "work_mode": "hybrid"}}
+{"qid": 32, "kind": "paraphrase", "text": "I want to make dashboards and reports for managers", "family": "data_analyst", "filters": {"city": "Pune", "work_mode": "hybrid"}}
+{"qid": 33, "kind": "title", "text": "I want data scientist roles", "family": "data_scientist", "filters": {"city": "Chennai", "years_experience": 0}}
+{"qid": 34, "kind": "skills", "text": "I know python, pytorch and docker - what jobs fit me?", "family": "ml_engineer", "filters": {"city": "Chennai", "years_experience": 0}}
+{"qid": 35, "kind": "paraphrase", "text": "I want to build chatbots on top of large language models", "family": "genai_engineer", "filters": {"city": "Pune"}}
+{"qid": 36, "kind": "title", "text": "show me data engineer roles", "family": "data_engineer", "filters": {"city": "Mumbai", "work_mode": "remote"}}
+{"qid": 37, "kind": "skills", "text": "I know kubernetes, docker and aws - what jobs fit me?", "family": "devops", "filters": {"work_mode": "remote"}}
+{"qid": 38, "kind": "paraphrase", "text": "I want to find vulnerabilities before attackers do", "family": "security", "filters": {"city": "Bengaluru", "work_mode": "onsite", "years_experience": 2}}
+{"qid": 39, "kind": "title", "text": "any openings for sdet roles", "family": "qa", "filters": {"city": "Hyderabad", "work_mode": "onsite"}}
+{"qid": 40, "kind": "skills", "text": "I know c, rtos and microcontrollers - what jobs fit me?", "family": "embedded", "filters": {"city": "Hyderabad", "work_mode": "onsite", "years_experience": 0}}
+{"qid": 41, "kind": "paraphrase", "text": "I want to high performance trading infrastructure", "family": "cpp_systems", "filters": {"city": "Gurugram"}}
+{"qid": 42, "kind": "title", "text": "looking for product designer roles", "family": "ui_ux", "filters": {}}
+{"qid": 43, "kind": "skills", "text": "I know stakeholder management, product management and roadmapping - what jobs fit me?", "family": "product_manager", "filters": {"city": "Pune", "years_experience": 4}}
+{"qid": 44, "kind": "paraphrase", "text": "I want to find new clients and close deals", "family": "sales", "filters": {}}
+{"qid": 45, "kind": "title", "text": "show me digital marketing executive roles", "family": "digital_marketing", "filters": {"city": "Mumbai", "work_mode": "onsite"}}
+{"qid": 46, "kind": "skills", "text": "I know editing, content writing and copywriting - what jobs fit me?", "family": "content_writer", "filters": {"years_experience": 1}}
+{"qid": 47, "kind": "paraphrase", "text": "I want to hire people for tech teams", "family": "hr", "filters": {"city": "Chennai", "work_mode": "onsite"}}
+{"qid": 48, "kind": "title", "text": "I want python developer roles", "family": "backend_python", "filters": {"years_experience": 4}}
+{"qid": 49, "kind": "skills", "text": "I know mysql, spring boot and java - what jobs fit me?", "family": "backend_java", "filters": {"city": "Hyderabad", "work_mode": "hybrid", "years_experience": 1}}
+{"qid": 50, "kind": "paraphrase", "text": "I want to low latency systems programming for distributed services", "family": "backend_go", "filters": {"city": "Bengaluru", "years_experience": 2}}
+{"qid": 51, "kind": "title", "text": "looking for frontend engineer (react) roles", "family": "frontend", "filters": {"work_mode": "onsite"}}
+{"qid": 52, "kind": "skills", "text": "I know mongodb, react and javascript - what jobs fit me?", "family": "fullstack", "filters": {"work_mode": "onsite", "years_experience": 1}}
+{"qid": 53, "kind": "paraphrase", "text": "I want to build apps for phones that run Google's OS", "family": "android", "filters": {}}
+{"qid": 54, "kind": "title", "text": "any openings for mobile engineer (ios) roles", "family": "ios", "filters": {"city": "Bengaluru"}}
+{"qid": 55, "kind": "skills", "text": "I know dart and flutter - what jobs fit me?", "family": "flutter", "filters": {"city": "Bengaluru", "years_experience": 2}}
+{"qid": 56, "kind": "paraphrase", "text": "I want to make dashboards and reports for managers", "family": "data_analyst", "filters": {"city": "Bengaluru"}}
+{"qid": 57, "kind": "title", "text": "I want data scientist roles", "family": "data_scientist", "filters": {"work_mode": "hybrid", "years_experience": 2}}
+{"qid": 58, "kind": "skills", "text": "I know docker, pytorch and mlops - what jobs fit me?", "family": "ml_engineer", "filters": {"city": "Bengaluru", "years_experience": 2}}
+{"qid": 59, "kind": "paraphrase", "text": "I want to build chatbots on top of large language models", "family": "genai_engineer", "filters": {"city": "Bengaluru"}}
+{"qid": 60, "kind": "title", "text": "show me big data engineer roles", "family": "data_engineer", "filters": {"city": "Hyderabad"}}
+{"qid": 61, "kind": "skills", "text": "I know terraform, aws and kubernetes - what jobs fit me?", "family": "devops", "filters": {}}
+{"qid": 62, "kind": "paraphrase", "text": "I want to find vulnerabilities before attackers do", "family": "security", "filters": {"city": "Mumbai", "years_experience": 2}}
+{"qid": 63, "kind": "title", "text": "I want qa engineer roles", "family": "qa", "filters": {}}
+{"qid": 64, "kind": "skills", "text": "I know c, embedded c and rtos - what jobs fit me?", "family": "embedded", "filters": {"work_mode": "onsite"}}
+{"qid": 65, "kind": "paraphrase", "text": "I want to high performance trading infrastructure", "family": "cpp_systems", "filters": {"years_experience": 2}}
+{"qid": 66, "kind": "title", "text": "show me ui/ux designer roles", "family": "ui_ux", "filters": {"city": "Chennai", "work_mode": "remote"}}
+{"qid": 67, "kind": "skills", "text": "I know stakeholder management, roadmapping and product management - what jobs fit me?", "family": "product_manager", "filters": {"work_mode": "remote"}}
+{"qid": 68, "kind": "paraphrase", "text": "I want to sell software to businesses", "family": "sales", "filters": {"work_mode": "onsite", "years_experience": 1}}
+{"qid": 69, "kind": "title", "text": "any openings for growth marketer roles", "family": "digital_marketing", "filters": {"city": "Bengaluru"}}
+{"qid": 70, "kind": "skills", "text": "I know content writing, editing and copywriting - what jobs fit me?", "family": "content_writer", "filters": {}}
+{"qid": 71, "kind": "paraphrase", "text": "I want to manage hiring and onboarding of new employees", "family": "hr", "filters": {}}
+{"qid": 72, "kind": "title", "text": "show me software engineer - backend roles", "family": "backend_python", "filters": {"city": "Chennai"}}
+{"qid": 73, "kind": "skills", "text": "I know mysql, spring boot and microservices - what jobs fit me?", "family": "backend_java", "filters": {"city": "Mumbai", "years_experience": 2}}
+{"qid": 74, "kind": "paraphrase", "text": "I want to low latency systems programming for distributed services", "family": "backend_go", "filters": {"city": "Chennai"}}
+{"qid": 75, "kind": "title", "text": "any openings for react developer roles", "family": "frontend", "filters": {"city": "Gurugram", "work_mode": "onsite"}}
+{"qid": 76, "kind": "skills", "text": "I know mongodb, react and node.js - what jobs fit me?", "family": "fullstack", "filters": {"years_experience": 4}}
+{"qid": 77, "kind": "paraphrase", "text": "I want to make our Play Store app better", "family": "android", "filters": {"city": "Chennai"}}
+{"qid": 78, "kind": "title", "text": "show me swift developer roles", "family": "ios", "filters": {}}
+{"qid": 79, "kind": "skills", "text": "I know dart and flutter - what jobs fit me?", "family": "flutter", "filters": {}}
+{"qid": 80, "kind": "paraphrase", "text": "I want to make dashboards and reports for managers", "family": "data_analyst", "filters": {}}
+{"qid": 81, "kind": "title", "text": "I want data scientist roles", "family": "data_scientist", "filters": {"work_mode": "onsite"}}
+{"qid": 82, "kind": "skills", "text": "I know mlops, pytorch and python - what jobs fit me?", "family": "ml_engineer", "filters": {"work_mode": "hybrid"}}
+{"qid": 83, "kind": "paraphrase", "text": "I want to make AI assistants that answer from documents", "family": "genai_engineer", "filters": {"city": "Mumbai", "years_experience": 0}}
+{"qid": 84, "kind": "title", "text": "any openings for big data engineer roles", "family": "data_engineer", "filters": {"years_experience": 1}}
+{"qid": 85, "kind": "skills", "text": "I know kubernetes, terraform and aws - what jobs fit me?", "family": "devops", "filters": {"city": "Bengaluru"}}
+{"qid": 86, "kind": "paraphrase", "text": "I want to ethical hacking and defending our systems", "family": "security", "filters": {}}
+{"qid": 87, "kind": "title", "text": "any openings for test automation engineer roles", "family": "qa", "filters": {"city": "Gurugram", "work_mode": "onsite"}}
+{"qid": 88, "kind": "skills", "text": "I know rtos, embedded c and microcontrollers - what jobs fit me?", "family": "embedded", "filters": {"city": "Gurugram", "work_mode": "remote"}}
+{"qid": 89, "kind": "paraphrase", "text": "I want to performance critical native code", "family": "cpp_systems", "filters": {"city": "Hyderabad", "work_mode": "onsite"}}
+{"qid": 90, "kind": "title", "text": "show me product designer roles", "family": "ui_ux", "filters": {}}
+{"qid": 91, "kind": "skills", "text": "I know roadmapping, stakeholder management and product management - what jobs fit me?", "family": "product_manager", "filters": {}}
+{"qid": 92, "kind": "paraphrase", "text": "I want to sell software to businesses", "family": "sales", "filters": {"city": "Pune"}}
+{"qid": 93, "kind": "title", "text": "show me performance marketer roles", "family": "digital_marketing", "filters": {}}
+{"qid": 94, "kind": "skills", "text": "I know editing, content writing and copywriting - what jobs fit me?", "family": "content_writer", "filters": {"work_mode": "onsite"}}
+{"qid": 95, "kind": "paraphrase", "text": "I want to manage hiring and onboarding of new employees", "family": "hr", "filters": {"city": "Hyderabad", "years_experience": 4}}
+{"qid": 96, "kind": "title", "text": "looking for software engineer - backend roles", "family": "backend_python", "filters": {"city": "Bengaluru"}}
+{"qid": 97, "kind": "skills", "text": "I know spring boot, microservices and java - what jobs fit me?", "family": "backend_java", "filters": {"city": "Hyderabad"}}
+{"qid": 98, "kind": "paraphrase", "text": "I want to concurrent network services", "family": "backend_go", "filters": {}}
+{"qid": 99, "kind": "title", "text": "I want frontend developer roles", "family": "frontend", "filters": {"city": "Bengaluru", "years_experience": 0}}
+{"qid": 100, "kind": "skills", "text": "I know react, javascript and node.js - what jobs fit me?", "family": "fullstack", "filters": {}}
+{"qid": 101, "kind": "paraphrase", "text": "I want to build apps for phones that run Google's OS", "family": "android", "filters": {}}
+{"qid": 102, "kind": "title", "text": "I want mobile engineer (ios) roles", "family": "ios", "filters": {"years_experience": 1}}
+{"qid": 103, "kind": "skills", "text": "I know flutter and dart - what jobs fit me?", "family": "flutter", "filters": {"city": "Hyderabad", "work_mode": "onsite"}}
+{"qid": 104, "kind": "paraphrase", "text": "I want to make dashboards and reports for managers", "family": "data_analyst", "filters": {"city": "Chennai", "work_mode": "remote", "years_experience": 1}}
+{"qid": 105, "kind": "title", "text": "any openings for data scientist roles", "family": "data_scientist", "filters": {"city": "Pune", "work_mode": "onsite"}}
+{"qid": 106, "kind": "skills", "text": "I know pytorch, docker and python - what jobs fit me?", "family": "ml_engineer", "filters": {"city": "Gurugram"}}
+{"qid": 107, "kind": "paraphrase", "text": "I want to build chatbots on top of large language models", "family": "genai_engineer", "filters": {"city": "Chennai"}}
+{"qid": 108, "kind": "title", "text": "show me data engineer roles", "family": "data_engineer", "filters": {"work_mode": "onsite", "years_experience": 0}}
+{"qid": 109, "kind": "skills", "text": "I know docker, kubernetes and aws - what jobs fit me?", "family": "devops", "filters": {"city": "Bengaluru"}}
+{"qid": 110, "kind": "paraphrase", "text": "I want to ethical hacking and defending our systems", "family": "security", "filters": {}}
+{"qid": 111, "kind": "title", "text": "looking for qa engineer roles", "family": "qa", "filters": {"city": "Gurugram", "work_mode": "hybrid"}}
+{"qid": 112, "kind": "skills", "text": "I know c, microcontrollers and embedded c - what jobs fit me?", "family": "embedded", "filters": {"city": "Mumbai", "years_experience": 1}}
+{"qid": 113, "kind": "paraphrase", "text": "I want to performance critical native code", "family": "cpp_systems", "filters": {"city": "Gurugram", "work_mode": "remote"}}
+{"qid": 114, "kind": "title", "text": "any openings for product designer roles", "family": "ui_ux", "filters": {}}
+{"qid": 115, "kind": "skills", "text": "I know roadmapping, stakeholder management and product management - what jobs fit me?", "family": "product_manager", "filters": {"work_mode": "hybrid", "years_experience": 4}}
+{"qid": 116, "kind": "paraphrase", "text": "I want to sell software to businesses", "family": "sales", "filters": {"city": "Bengaluru", "years_experience": 2}}
+{"qid": 117, "kind": "title", "text": "I want performance marketer roles", "family": "digital_marketing", "filters": {}}
+{"qid": 118, "kind": "skills", "text": "I know editing, content writing and copywriting - what jobs fit me?", "family": "content_writer", "filters": {}}
+{"qid": 119, "kind": "paraphrase", "text": "I want to manage hiring and onboarding of new employees", "family": "hr", "filters": {"city": "Chennai"}}
+{"qid": 120, "kind": "title", "text": "looking for software engineer - backend roles", "family": "backend_python", "filters": {"city": "Bengaluru", "years_experience": 0}}
+{"qid": 121, "kind": "skills", "text": "I know spring boot, microservices and java - what jobs fit me?", "family": "backend_java", "filters": {"city": "Mumbai"}}
+{"qid": 122, "kind": "paraphrase", "text": "I want to concurrent network services", "family": "backend_go", "filters": {"work_mode": "hybrid", "years_experience": 0}}
+{"qid": 123, "kind": "title", "text": "any openings for react developer roles", "family": "frontend", "filters": {"work_mode": "hybrid"}}
+{"qid": 124, "kind": "skills", "text": "I know react, node.js and javascript - what jobs fit me?", "family": "fullstack", "filters": {"years_experience": 2}}
+{"qid": 125, "kind": "paraphrase", "text": "I want to build apps for phones that run Google's OS", "family": "android", "filters": {"work_mode": "onsite"}}
+{"qid": 126, "kind": "title", "text": "any openings for mobile engineer (ios) roles", "family": "ios", "filters": {"work_mode": "onsite", "years_experience": 2}}
+{"qid": 127, "kind": "skills", "text": "I know dart and flutter - what jobs fit me?", "family": "flutter", "filters": {"work_mode": "hybrid"}}
+{"qid": 128, "kind": "paraphrase", "text": "I want to dig into numbers to answer business questions", "family": "data_analyst", "filters": {"years_experience": 2}}
+{"qid": 129, "kind": "title", "text": "looking for data scientist roles", "family": "data_scientist", "filters": {"work_mode": "onsite"}}
+{"qid": 130, "kind": "skills", "text": "I know python, docker and pytorch - what jobs fit me?", "family": "ml_engineer", "filters": {"city": "Gurugram"}}
+{"qid": 131, "kind": "paraphrase", "text": "I want to make AI assistants that answer from documents", "family": "genai_engineer", "filters": {"city": "Gurugram", "years_experience": 0}}
+{"qid": 132, "kind": "title", "text": "show me analytics engineer roles", "family": "data_engineer", "filters": {"work_mode": "remote"}}
+{"qid": 133, "kind": "skills", "text": "I know docker, terraform and aws - what jobs fit me?", "family": "devops", "filters": {}}
+{"qid": 134, "kind": "paraphrase", "text": "I want to ethical hacking and defending our systems", "family": "security", "filters": {"city": "Bengaluru", "years_experience": 0}}
+{"qid": 135, "kind": "title", "text": "any openings for qa engineer roles", "family": "qa", "filters": {}}
+{"qid": 136, "kind": "skills", "text": "I know c, rtos and microcontrollers - what jobs fit me?", "family": "embedded", "filters": {"city": "Mumbai"}}
+{"qid": 137, "kind": "paraphrase", "text": "I want to high performance trading infrastructure", "family": "cpp_systems", "filters": {}}
+{"qid": 138, "kind": "title", "text": "show me product designer roles", "family": "ui_ux", "filters": {}}
+{"qid": 139, "kind": "skills", "text": "I know roadmapping, product management and stakeholder management - what jobs fit me?", "family": "product_manager", "filters": {"city": "Gurugram"}}
+{"qid": 140, "kind": "paraphrase", "text": "I want to find new clients and close deals", "family": "sales", "filters": {"city": "Bengaluru", "work_mode": "remote"}}
+{"qid": 141, "kind": "title", "text": "show me seo specialist roles", "family": "digital_marketing", "filters": {"city": "Pune"}}
+{"qid": 142, "kind": "skills", "text": "I know content writing, copywriting and editing - what jobs fit me?", "family": "content_writer", "filters": {"years_experience": 2}}
+{"qid": 143, "kind": "paraphrase", "text": "I want to hire people for tech teams", "family": "hr", "filters": {"city": "Gurugram", "years_experience": 1}}

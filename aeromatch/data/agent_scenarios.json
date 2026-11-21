@@ -1,0 +1,53 @@
+[
+  {"id": "basic_search", "turns": [
+    {"user": "Show me Python backend developer jobs in Bangalore", "tools": ["search_jobs"],
+     "filters": {"city": "Bengaluru"}, "family": "backend_python"}]},
+  {"id": "remote_genai", "turns": [
+    {"user": "Any remote LLM engineer roles? I have 1 year of experience", "tools": ["search_jobs"],
+     "filters": {"work_mode": "remote", "years_experience": 1}, "family": "genai_engineer"}]},
+  {"id": "paraphrase_frontend", "turns": [
+    {"user": "I like turning Figma designs into working websites. What fits me?", "tools": ["search_jobs"],
+     "family": "frontend"}]},
+  {"id": "paraphrase_devops", "turns": [
+    {"user": "I want to keep cloud servers running and automate deployments", "tools": ["search_jobs"],
+     "family": "devops"}]},
+  {"id": "hinglish_city", "turns": [
+    {"user": "Gurgaon mein data analyst ki job chahiye, fresher hoon", "tools": ["search_jobs"],
+     "filters": {"city": "Gurugram", "years_experience": 0}, "family": "data_analyst"}]},
+  {"id": "salary_filter", "turns": [
+    {"user": "Data engineer jobs paying at least 20 LPA", "tools": ["search_jobs"],
+     "filters": {"min_salary_lpa": 20}, "family": "data_engineer"}]},
+  {"id": "remember_then_search", "turns": [
+    {"user": "I'm a fresher in Pune and I know Kotlin and Jetpack Compose", "tools": ["update_preferences"]},
+    {"user": "OK, find me something", "tools": ["search_jobs"],
+     "filters": {"city": "Pune", "years_experience": 0}, "family": "android"}]},
+  {"id": "remember_work_mode", "turns": [
+    {"user": "Please remember I only want remote roles", "tools": ["update_preferences"]},
+    {"user": "Show me machine learning engineer openings", "tools": ["search_jobs"],
+     "filters": {"work_mode": "remote"}, "family": "ml_engineer"}]},
+  {"id": "details_followup", "turns": [
+    {"user": "Find iOS developer jobs in Hyderabad", "tools": ["search_jobs"],
+     "filters": {"city": "Hyderabad"}, "family": "ios"},
+    {"user": "Tell me more about the first one", "tools": ["get_job_details"]}]},
+  {"id": "save_followup", "turns": [
+    {"user": "QA automation roles in Chennai please", "tools": ["search_jobs"],
+     "filters": {"city": "Chennai"}, "family": "qa"},
+    {"user": "Save the first one to my shortlist", "tools": ["save_job"]}]},
+  {"id": "dismiss_followup", "turns": [
+    {"user": "Show me product manager jobs", "tools": ["search_jobs"], "family": "product_manager"},
+    {"user": "Not interested in the first one, hide it", "tools": ["dismiss_job"]}]},
+  {"id": "skills_only", "turns": [
+    {"user": "I know Spark, Airflow and SQL. What jobs match?", "tools": ["search_jobs"], "family": "data_engineer"}]},
+  {"id": "smalltalk_no_tools", "turns": [
+    {"user": "Hi! What can you do?", "tools": []}]},
+  {"id": "cpp_lowlatency", "turns": [
+    {"user": "I want to write performance-critical C++ for trading systems, Mumbai preferred", "tools": ["search_jobs"],
+     "filters": {"city": "Mumbai"}, "family": "cpp_systems"}]},
+  {"id": "security_paraphrase", "turns": [
+    {"user": "I enjoy ethical hacking and finding vulnerabilities", "tools": ["search_jobs"], "family": "security"}]},
+  {"id": "multi_pref_update", "turns": [
+    {"user": "I have 4 years of experience in Java and Spring Boot, based in Hyderabad, want at least 18 LPA",
+     "tools": ["update_preferences"]},
+    {"user": "What do you have for me?", "tools": ["search_jobs"],
+     "filters": {"city": "Hyderabad", "years_experience": 4, "min_salary_lpa": 18}, "family": "backend_java"}]}
+]
